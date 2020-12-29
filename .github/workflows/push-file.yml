@@ -19,4 +19,3 @@ jobs:
         destination_folder: 'data'
         user_email: 'david.ory@gmail.com'
         user_name: 'DavidOry'
-        commit_message: 'Test pushing file from other repo with action'
